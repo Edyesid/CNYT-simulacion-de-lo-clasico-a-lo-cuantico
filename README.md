@@ -1,6 +1,6 @@
 # Escuela Colombiana de ingenieria
-#Calculadora de numeros complejos version final
-#Calculadora cuantica
+# Calculadora de numeros complejos
+Calculadora cuantica<br/>
 En este proyecto se podra calcular el estado de un sistema en n clicks de tiempo(juego de las canicas), ensamblar
 un sistema dado dos vector de estado y dos matrices, y se podra hacer una simulacion del experimento de las rendijas.<br/>
 
@@ -33,10 +33,10 @@ Si quiere probar como funciona el programa tiene que seguir estos pasos<br/>
 3. corra el programa en eclipse y instale las librerias que estan incluidas en el rar<br/>
 4. ingrese los parametros deseados en cada uno de los metodos del programa<br/>
 
-#Construido
+# Construido
 Eclipse Editor de Java donde se puede compilar el proyecto<br/>
 
-#Autor
+# Autor
 Edwin Yesid Rodriguez Maldonado<br/>
 
 # Licencia
