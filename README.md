@@ -31,13 +31,9 @@ Si quiere probar como funciona el programa tiene que seguir estos pasos<br/>
 1. descargue el rar del git<br/>
 2. Descargar Eclipse<br/>
 3. Abra el proyecto en eclipse y de click derecho en la carpeta calculadora luego busca la opcion 'build path' , 'configure build path' y luego busca la parte de libreries y elimina las librerias de jcommon y jfreechart<br/>
-<br/>
-![1](https://i.ibb.co/TqkdXmj/built.png)
-<br/>
+![imagen](https://i.ibb.co/TqkdXmj/built.png)
 4. vuelve a insertar las librerias en la opcion add external jars.. y agrega las dos librerias que estan incluidas en rar descargado<br/> 
-<br/>
-![2](https://i.ibb.co/Mc2rYKG/built2.png)
-<br/>
+![imagen2](https://i.ibb.co/Mc2rYKG/built2.png)
 5. ingrese los parametros deseados en cada uno de los metodos del programa y corre el programa<br/>
 
 # Construido
