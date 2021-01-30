@@ -26,18 +26,28 @@ Inversa<br/>
 Producto<br/>
 producto Tensor<br/>
 
-# Instalacion
-Si quiere probar como funciona el programa tiene que seguir estos pasos<br/>
-1. descargue el rar del git<br/>
-2. Descargar Eclipse<br/>
-3. Abra el proyecto en eclipse y de click derecho en la carpeta calculadora luego busca la opcion 'build path' , 'configure build path' y luego busca la parte de libreries y elimina las librerias de jcommon y jfreechart<br/>
-![imagen](https://i.ibb.co/TqkdXmj/built.png)
-4. vuelve a insertar las librerias en la opcion add external jars.. y agrega las dos librerias que estan incluidas en rar descargado<br/> 
-![imagen2](https://i.ibb.co/Mc2rYKG/built2.png)
-5. ingrese los parametros deseados en cada uno de los metodos del programa y corre el programa<br/>
+# Descarga e instalación
+
+Para descargar este proyecto debera tener descagado git en su maquina y posteriormente copiar el siguiente comando en un shell del sistema operativo
+```
+git clone https://github.com/Edyesid/Sistema-cuantico-de-particula-en-una-linea.git
+```
+Pare compilar y ejecutar el programa debera tener instalado [maven](https://maven.apache.org/install.html) en su maquina y luego ejecuta los siguientes comando
+
+1. compilar
+
+```
+mvn package
+```
+
+2. Ejecutar
+
+```
+mvn exec:java -Dexec.mainClass="edu.escuelaing.cnyt.app.Calculator"
+```
 
 # Construido
-Eclipse Editor de Java donde se puede compilar el proyecto<br/>
+[Eclipse](https://www.eclipse.org/ide/) Editor de Java donde se puede compilar el proyecto
 
 # Autor
 Edwin Yesid Rodriguez Maldonado<br/>
