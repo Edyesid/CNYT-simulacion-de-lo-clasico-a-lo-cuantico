@@ -1,8 +1,9 @@
 # Escuela Colombiana de ingenieria
 # Ciencias naturales y tecnologia                 10/9/2019
-Calculadora cuantica<br/>
-En este proyecto se podra calcular el estado de un sistema en n clicks de tiempo(juego de las canicas), ensamblar
-un sistema dado dos vector de estado y dos matrices, y se podra hacer una simulacion del experimento de las rendijas.<br/>
+
+Calculadora cuantica
+
+En este proyecto se podra calcular el estado de un sistema en n clicks de tiempo (juego de las canicas), ensamblar un sistema dado dos vector de estado y dos matrices, y se podra hacer una simulacion del experimento de las rendijas.
 
 # Prerequisitos
 Numeros Complejos<br/>
